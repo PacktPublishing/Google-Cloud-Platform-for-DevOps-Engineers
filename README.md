@@ -9,7 +9,7 @@ This is the code repository for [Google Cloud for DevOps Engineers](https://www.
 ## What is this book about?
 DevOps is a set of practices that help remove barriers between developers and system administrators, and is implemented by Google through site reliability engineering (SRE). With the help of this book, you'll explore the evolution of DevOps and SRE, before delving into SRE technical practices such as SLA, SLO, SLI, and error budgets that are critical to building reliable software faster and balance new feature deployment with system reliability. You'll then explore SRE cultural practices such as incident management and being on-call, and learn the building blocks to form SRE teams. The second part of the book focuses on Google Cloud services to implement DevOps via continuous integration and continuous delivery (CI/CD). You'll learn how to add source code via Cloud Source Repositories, build code to create deployment artifacts via Cloud Build, and push it to Container Registry. Moving on, you'll understand the need for container orchestration via Kubernetes, comprehend Kubernetes essentials, apply via Google Kubernetes Engine (GKE), and secure the GKE cluster.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Categorize user journeys and explore different ways to measure SLIs
 * Explore the four golden signals for monitoring a user-facing system
 * Understand psychological safety along with other SRE cultural practices
