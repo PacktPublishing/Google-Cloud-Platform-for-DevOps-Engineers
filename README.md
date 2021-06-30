@@ -1,6 +1,6 @@
 # Google Cloud for DevOps Engineers
 
-<a href="https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019"><img src="https://static.packt-cdn.com/products/9781839218019/cover/smaller alt="Google Cloud for DevOps Engineers" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019"><img src="https://static.packt-cdn.com/products/9781839218019/cover/smaller" alt="Google Cloud for DevOps Engineers" height="256px" align="right"></a>
 
 This is the code repository for [Google Cloud for DevOps Engineers](https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019), published by Packt.
 
