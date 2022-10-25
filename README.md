@@ -54,3 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Sandeep Madamanchi** works at a company called Variant that re-engineers trucking through technology, acting as the Head of Cloud Infrastructure and Data Engineering. He is a continuous learner, focused on building highly resilient, secure, and self-healing cloud infrastructure. He advocates SRE and its practices to achieve reliability and operational stability. His vision is to provide infrastructure as a service to core engineering, analytics, and ML specialized teams through DevOps, DataOps, and MLOps practices.
 Prior to Variant, he was Director of R&D at Manhattan Associates; a leader in supply chain software and worked there for over 14 years. He holds certifications across AWS and GCP; which includes the Professional Cloud DevOps Engineer Certification.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839218019">https://packt.link/free-ebook/9781839218019 </a> </p>
